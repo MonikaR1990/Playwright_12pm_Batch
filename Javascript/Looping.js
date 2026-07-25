@@ -17,6 +17,13 @@
 //     console.log(i)
 // }
 
+// let i = 1
+
+// for(; i<=5; i++)
+// {
+
+// }
+
 
 // for(let i = 2; i<=20; i+=2)
 // {
@@ -45,6 +52,7 @@ for(let i = str.length - 1; i>=0; i--)
 
 
 console.log(rev)
+
 //for (Numbers of iteration is known) (array, count)
 
 //While Loop (Number of iteration is unknown) (input)
