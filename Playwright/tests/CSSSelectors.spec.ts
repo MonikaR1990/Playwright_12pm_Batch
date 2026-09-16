@@ -73,4 +73,4 @@ test('CSS Selector', async({page})=>{
 
 
 
-
+//visible text  ==> [text=AmazonBasics]
