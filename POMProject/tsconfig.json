@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "types": ["node", "@playwright/test"],
+    "strict": true,
+    "noEmit": true
+  }
+}

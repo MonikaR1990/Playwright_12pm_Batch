@@ -24,7 +24,7 @@ sname = "Ratha" //Re-Assign
 
 console.log(sname)
 
-const fname = "Muthu"
+const fname: string = "Muthu"
 
 fname = "Latha" //Re-assign not allow
 
