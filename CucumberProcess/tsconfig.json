@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "types": [
+      "node",
+      "@playwright/test",
+      "@cucumber/cucumber"
+    ],
+    "strict": true,
+    "noEmit": true
+  }
+}
